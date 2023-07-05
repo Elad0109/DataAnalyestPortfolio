@@ -1,0 +1,78 @@
+ProductID,ProductName,UnitPrice,CategoryID,Date,Date1
+1,Chai,18,1,22/11/2024,5/31/2023
+2,Chang,19,1,23/11/2024,6/1/2023
+3,Aniseed Syrup,10,2,24/11/2024,6/2/2023
+4,Chef Anton's Cajun Seasoning,22,2,25/11/2024,6/3/2023
+5,Chef Anton's Gumbo Mix,21.35,2,26/11/2024,6/4/2023
+6,Grandma's Boysenberry Spread,25,2,27/11/2024,6/5/2023
+7,Uncle Bob's Organic Dried Pears,30,7,28/11/2024,6/6/2023
+8,Northwoods Cranberry Sauce,40,2,29/11/2024,6/7/2023
+9,Mishi Kobe Niku,97,6,30/11/2024,6/8/2023
+10,Ikura,31,8,29/02/2024,6/9/2023
+11,Queso Cabrales,21,4,31/03/2024,6/10/2023
+12,Queso Manchego La Pastora,38,4,30/04/2024,6/11/2023
+13,Konbu,6,8,31/05/2024,6/12/2023
+14,Tofu,23.25,7,30/06/2024,6/13/2023
+15,Genen Shouyu,15.5,2,31/07/2024,6/14/2023
+16,Pavlova,17.45,3,31/08/2024,6/15/2023
+17,Alice Mutton,39,6,30/09/2024,6/16/2023
+18,Carnarvon Tigers,62.5,8,24/05/2023,6/17/2023
+19,Teatime Chocolate Biscuits,9.2,3,25/05/2023,6/18/2023
+20,Sir Rodney's Marmalade,81,3,26/05/2023,6/19/2023
+21,Sir Rodney's Scones,10,3,27/05/2023,6/20/2023
+22,Gustaf's Knackebrad,21,5,28/05/2023,6/21/2023
+23,Tunnbrad,9,5,29/05/2023,6/22/2023
+24,Guarana Fantastica,4.5,1,30/05/2023,6/23/2023
+25,NuNuCa Nua-Nougat-Creme,14,3,31/05/2023,6/24/2023
+26,Gumbar Gummibarchen,31.23,3,28/02/2026,6/25/2023
+27,Schoggi Schokolade,43.9,3,31/07/2025,6/26/2023
+28,Rassle Sauerkraut,45.6,7,31/08/2025,6/27/2023
+29,Tharinger Rostbratwurst,123.79,6,30/09/2025,6/28/2023
+30,Nord-Ost Matjeshering,25.89,8,31/10/2025,6/29/2023
+31,Gorgonzola Telino,12.5,4,30/11/2025,6/30/2023
+32,Mascarpone Fabioli,32,4,31/12/2025,7/1/2023
+33,Geitost,2.5,4,31/01/2026,7/2/2023
+34,Sasquatch Ale,14,1,28/02/2026,7/3/2023
+35,Steeleye Stout,18,1,31/03/2026,7/4/2023
+36,Inlagd Sill,19,8,30/04/2026,7/5/2023
+37,Gravad lax,26,8,31/05/2026,7/6/2023
+38,Cate de Blaye,263.5,1,30/06/2026,7/7/2023
+39,Chartreuse verte,18,1,31/07/2026,7/8/2023
+40,Boston Crab Meat,18.4,8,31/08/2026,7/9/2023
+41,Jack's New England Clam Chowder,9.65,8,30/09/2026,7/10/2023
+42,Singaporean Hokkien Fried Mee,14,5,31/10/2026,7/11/2023
+43,Ipoh Coffee,46,1,30/11/2026,7/12/2023
+44,Gula Malacca,19.45,2,31/12/2026,7/13/2023
+45,Rogede sild,9.5,8,31/01/2027,7/14/2023
+46,Spegesild,12,8,28/02/2027,7/15/2023
+47,Zaanse koeken,9.5,3,18/09/2028,7/16/2023
+48,Chocolade,12.75,3,19/09/2028,7/17/2023
+49,Maxilaku,20,3,20/09/2028,7/18/2023
+50,Valkoinen suklaa,16.25,3,21/09/2028,7/19/2023
+51,Manjimup Dried Apples,53,7,22/09/2028,7/20/2023
+52,Filo Mix,7,5,23/09/2028,7/21/2023
+53,Perth Pasties,32.8,6,24/09/2028,7/22/2023
+54,Tourtiare,7.45,6,25/09/2028,7/23/2023
+55,Pata chinois,24,6,26/09/2028,7/24/2023
+56,Gnocchi di nonna Alice,38,5,27/09/2028,7/25/2023
+57,Ravioli Angelo,19.5,5,28/09/2028,7/26/2023
+58,Escargots de Bourgogne,13.25,8,29/09/2028,7/27/2023
+59,Raclette Courdavault,55,4,30/09/2028,7/28/2023
+60,Camembert Pierrot,34,4,30/04/2028,7/29/2023
+61,Sirop d'arable,28.5,2,31/05/2028,7/30/2023
+62,Tarte au sucre,49.3,3,30/06/2028,7/31/2023
+63,Vegie-spread,43.9,2,31/07/2028,8/1/2023
+64,Wimmers gute Semmelknadel,33.25,5,31/08/2028,8/2/2023
+65,Louisiana Fiery Hot Pepper Sauce,21.05,2,30/09/2028,8/3/2023
+66,Louisiana Hot Spiced Okra,17,2,31/10/2028,8/4/2023
+67,Laughing Lumberjack Lager,14,1,30/11/2028,8/5/2023
+68,Scottish Longbreads,12.5,3,31/12/2028,8/6/2023
+69,Gudbrandsdalsost,36,4,31/01/2029,8/7/2023
+70,Outback Lager,15,1,28/02/2029,8/8/2023
+71,Flotemysost,21.5,4,31/03/2029,8/9/2023
+72,Mozzarella di Giovanni,34.8,4,30/04/2029,8/10/2023
+73,Rad Kaviar,15,8,31/05/2029,8/11/2023
+74,Longlife Tofu,10,7,30/06/2029,8/12/2023
+75,Rhanbrau Klosterbier,7.75,1,31/07/2029,8/13/2023
+76,Lakkalikaari,18,1,31/08/2029,8/14/2023
+77,Original Frankfurter grane Soae,13,2,30/09/2029,8/15/2023
